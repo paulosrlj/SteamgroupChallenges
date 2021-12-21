@@ -8,7 +8,7 @@
 # Instructions on how to check what was fulfilled
 
 <code>mvn clean package</code><br />
-<code>deploy on wildfly server</code>
+<code>deploy the <i>.war</i> on wildfly server</code>
 
 # Images
 
